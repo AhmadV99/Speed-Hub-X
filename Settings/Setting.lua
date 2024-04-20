@@ -1,5 +1,5 @@
 -- [[ Local ]] --
-local DiscordLink = "https://discord.gg/tusaQzURPQ"
+local DiscordLink = "https://discord.gg/TFMGNfBwJy"
 local YoutubeLink = "https://www.youtube.com/@TMRXofficial"
 -- [[ _G. ]] --
 _G.Discord = DiscordLink
