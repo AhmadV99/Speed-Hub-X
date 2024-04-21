@@ -9,21 +9,13 @@ getgenv().Discord = DiscordLink
 getgenv().Youtube = YoutubeLink
 
 if getgenv().FPSMAX or _G.FPSMAX then
-	spawn(function()
-		pcall(function()
-			loadstring([[
-				local RS = game:GetService("RunService").RenderStepped
-				local function GetFPS() 
-					RS:Wait() 
-					local V = 0 for _ = 1, 5 do 
-						V += 1 / RS:Wait() 
-					end 
-					return math.round(V / 5) 
-				end
-				pcall(function() setfpscap(GetFPS()) end)
-			]])()
-		end)
-	end)
+	local renderStepped = game:GetService("RunService").RenderStepped
+	local function GetFPS() 
+		renderStepped:Wait() 
+		local V = 0 for _ = 1, 5 do V += 1 / renderStepped:Wait() 
+		end return math.round(V / 5) 
+	end
+	spawn(function()setfpscap(GetFPS())end)
 end
 
 -- [[ Build Instance ]] --
