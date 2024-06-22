@@ -8,7 +8,7 @@ local GamesFunc = {
     [17503543197] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 3
 }
 for PlaceID, Execute in pairs(GamesFunc) do
-    if PlaceID == game.PlaceId then
+    if game.PlaceId == PlaceID then
         loadstring(game:HttpGet(Execute))()
     end
 end
