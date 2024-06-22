@@ -1,4 +1,4 @@
-local Games = {
+local GamesFunc = {
     [2753915549] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 1
     [4442272183] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 2
     [7449423635] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit Sea 3
@@ -7,7 +7,7 @@ local Games = {
     [16498369169] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 2
     [17503543197] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 3
 }
-for PlaceID, Execute in pairs(Games) do
+for PlaceID, Execute in pairs(GamesFunc) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
     end
