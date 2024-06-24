@@ -1,4 +1,4 @@
-local Ver = "Version: 3.0.5"
+local Ver = "Version: 3.0.6"
 local Dis = "https://discord.gg/G3b3HqJUvB"
 
 getgenv().Discord = Dis
