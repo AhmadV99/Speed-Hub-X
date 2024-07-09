@@ -6,5 +6,5 @@ getgenv().Games = {
   [8737899170] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 1
   [16498369169] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 2
   [17503543197] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- PS99 World 3
-  [10449761463] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/PS99.lua",  -- The Strongest Battlegrounds
+  [10449761463] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/The%20Strongest%20Battleground.lua",  -- The Strongest Battlegrounds
 }
