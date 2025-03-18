@@ -11,6 +11,7 @@ local Games = {
   [16732694052] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch
   [116495829188952] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Dead%20Rails.lua", -- Dead Rails
   [70876832253163] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Dead%20Rails.lua", -- Dead Rails
+  [125723653259639] = "https://raw.githubusercontent.com/triquqd717/main/refs/heads/main/other/DrillDiggingSimulator.lua", -- Drill Digging Simulator
 }
 
 return Games
