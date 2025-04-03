@@ -14,6 +14,7 @@ local Games = {
   [70876832253163] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Dead%20Rails.lua", -- Dead Rails
   [125723653259639] = "https://raw.githubusercontent.com/triquqd717/main/refs/heads/main/other/DrillDiggingSimulator.lua", -- Drill Digging Simulator
   [87039211657390] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover
+  [128336380114944] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover | Dungeon
 }
 
 return Games
