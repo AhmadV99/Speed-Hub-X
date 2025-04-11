@@ -16,6 +16,7 @@ local Games = {
   [87039211657390] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover
   [128336380114944] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover | Dungeon
   [116614712661486] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover | AFK Reward
+  [85896571713843] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", -- Bubble Gum Simulator INFINITY
 }
 
 return Games
