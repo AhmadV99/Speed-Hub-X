@@ -19,6 +19,7 @@ local Games = {
   [85896571713843] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", -- Bubble Gum Simulator INFINITY
   [126884695634066] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden
   [91867617264223] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 1
+  [126244816328678] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Dig.lua", -- Dig
 }
 
 return Games
