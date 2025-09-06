@@ -19,6 +19,7 @@ local Games = {
   [85896571713843] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", -- Bubble Gum Simulator INFINITY
   [126884695634066] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden
   [91867617264223] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 1
+  [124977557560410] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 3
   [126244816328678] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Dig.lua", -- Dig
   [79546208627805] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/99%20Nights%20in%20the%20Forest.lua", -- 99 Nights in the Forest
   [126509999114328] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/99%20Nights%20in%20the%20Forest.lua", -- 99 Nights in the Forest 1
