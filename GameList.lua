@@ -6,6 +6,7 @@ local Games = {
   [10449761463] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/The%20Strongest%20Battleground.lua",  -- The Strongest Battlegrounds
   [18901165922] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Pet%20GO.lua", -- Pet GO
   [16732694052] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch
+  [131716211654599] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch 1
   [126884695634066] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden
   [91867617264223] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 1
   [124977557560410] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 3
