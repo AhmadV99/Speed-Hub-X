@@ -17,6 +17,7 @@ local Games = {
   [103754275310547] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Hunty%20Zombie.lua", -- Hunty Zombie
   [86076978383613] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Hunty%20Zombie.lua", -- Hunty Zombie 1
   [121864768012064] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Fish%20It.lua", -- Fish It
+  [127742093697776] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Plant%20Vs%20Brainrot.lua", -- Plant Vs Brainrot
 }
 
 return Games
