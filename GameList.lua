@@ -12,10 +12,6 @@ local Games = {
   [124977557560410] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden 3
   [79546208627805] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/99%20Nights%20in%20the%20Forest.lua", -- 99 Nights in the Forest
   [126509999114328] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/99%20Nights%20in%20the%20Forest.lua", -- 99 Nights in the Forest 1
-  [99567941238278] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Ink%20Game.lua", -- Ink Game
-  [125009265613167] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Ink%20Game.lua", -- Ink Game 1
-  [103754275310547] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Hunty%20Zombie.lua", -- Hunty Zombie
-  [86076978383613] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Hunty%20Zombie.lua", -- Hunty Zombie 1
   [121864768012064] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Fish%20It.lua", -- Fish It
   [127742093697776] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Plant%20Vs%20Brainrot.lua", -- Plant Vs Brainrot
 }
