@@ -9,6 +9,7 @@ local Games = {
   [6701277882] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Fish%20It.lua", -- Fish It
   [8316902627] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Plant%20Vs%20Brainrot.lua", -- Plant Vs Brainrot
   [7671049560] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/The%20Forge.lua", -- The Forge
+  [9363735110] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Escape%20Tsunami%20For%20Brainrots.lua", -- Escape Tsunami For Brainrots
 }
 
 return Games
