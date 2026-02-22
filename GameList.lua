@@ -12,6 +12,7 @@ local Games = {
   [9363735110] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Escape%20Tsunami%20For%20Brainrots.lua", -- Escape Tsunami For Brainrots
   [9344307274] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Break%20a%20Lucky%20Block.lua", -- Break a Lucky Block
   [8144728961] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Abyss.lua", -- Abyss
+  [9509842868] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Garden%20Horizons.lua", -- Garden Horizons
 }
 
 return Games
