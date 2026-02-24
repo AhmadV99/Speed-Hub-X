@@ -6,10 +6,8 @@ local Games = {
   [5750914919] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch
   [7436755782] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden
   [6701277882] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Fish%20It.lua", -- Fish It
-  [8316902627] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Plant%20Vs%20Brainrot.lua", -- Plant Vs Brainrot
   [7671049560] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/The%20Forge.lua", -- The Forge
   [9363735110] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Escape%20Tsunami%20For%20Brainrots.lua", -- Escape Tsunami For Brainrots
-  [9344307274] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Break%20a%20Lucky%20Block.lua", -- Break a Lucky Block
   [8144728961] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Abyss.lua", -- Abyss
   [9509842868] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Garden%20Horizons.lua", -- Garden Horizons
 }
