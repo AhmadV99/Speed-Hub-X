@@ -10,8 +10,4 @@ local Games: {[number]: string} = loadstring(
 local URL: string? = Games[GameId]
 if not URL then return end
 
-task.spawn(function()
-  local Loader = loadstring(HttpGet(game, URL))()
-  
-  return Loader
-end)
+loadstring(HttpGet(game, URL))()
