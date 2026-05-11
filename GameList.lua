@@ -13,7 +13,7 @@ local Games = {
   [9186719164] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Sailor%20Piece.lua", -- Sailor Piece
   [8202280624] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Bite%20By%20Night.lua", -- Bite By Night
   [9792947201] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Slime%20RNG.lua", -- Slime RNG
-  [9098570654] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Survive%20the%20Apocalypse.lua", -- Slime RNG
+  [9098570654] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Survive%20the%20Apocalypse.lua", -- Survive the Apocalypse
 }
 
 return Games
