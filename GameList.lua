@@ -14,6 +14,7 @@ local Games = {
   [9584852943] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/%2B1%20Speed%20Keyboard%20Escape.lua", -- +1 Speed Keyboard Escape
   [10200395747] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20A%20Garden%202.lua", -- Grow A Garden 2
   [10144280947] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/%2B1%20Speed%20Monkey%20Escape.lua", -- +1 Speed Monkey Escape
+  [66654135] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Murder%20Mystery%202.lua", -- Murder Mystery 2
 }
 
 return Games
