@@ -6,6 +6,7 @@ local Games = {
   [10200395747] = "d1d3b9e2a44648efbd1096d4d6c48fa6", -- Grow A Garden 2
   [10563114921] = "570e906c9c01e841f979d51152994c52", -- Steal An Egg
   [10766972131] = "a2b3faed78bebfe5c0d7fb0f123c22f2", -- Throw Food For Animals
+  [10769671316] = "12cef9ed226d73a83b98e67092aa96fa", -- Survive Your Ideas
 }
 
 return Games
